@@ -1,1 +1,1 @@
-Hi, I'm an MSc Software Devlopment student, and Software Engineering Intern. I write code. I want to write better code, and learn as much about the art as possible. I practice a lot.
+Hi, I'm an MSc Software Devlopment student studying part time, and Junior Software Developer. I write code.
